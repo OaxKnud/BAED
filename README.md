@@ -1,6 +1,6 @@
 # BAED
 
-Official pytorch implementation for ["Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection"](https://doi.org/10.1145/3770854.3780240). 
+Official pytorch implementation for ["Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection"]. 
 
 
 ## Environment Requirements
